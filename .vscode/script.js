@@ -24,3 +24,5 @@ function toggleMode() {
     img.setAttribute("src", "./assets/joao.jpg")
   }
 }
+
+//apenas um teste
